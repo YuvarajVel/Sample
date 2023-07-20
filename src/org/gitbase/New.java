@@ -2,8 +2,8 @@ package org.gitbase;
 
 public class New {
 	
-	private void newOne() {
-		System.out.println("This is New");
+	private void secondOne() {
+		System.out.println("This is second");
 
 	}
 
