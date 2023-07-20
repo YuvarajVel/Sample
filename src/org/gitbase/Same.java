@@ -2,8 +2,13 @@ package org.gitbase;
 
 public class Same {
 	
-	private void bhuvanesh() {
-		System.out.println("This is bhuvanesh");
+	private void Ram() {
+		System.out.println("This is Ram");
+
+	}
+	
+	private void Bhuvanesh1() {
+		System.out.println("This is Ram");
 
 	}
 
