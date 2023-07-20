@@ -7,8 +7,8 @@ public class Same {
 
 	}
 	
-	private void Bhuvanesh1() {
-		System.out.println("This is Ram");
+	private void ram1() {
+		System.out.println("This is Bhuvanesh");
 
 	}
 
